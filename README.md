@@ -2,6 +2,5 @@
 在STM32F407ZGT6上面移植并修改大疆GM6020的标准can通信，以防自己遗忘，如果有侵权请联系删除
 感谢大疆提供示例代码
 
-![dd840a5c8962245e3cdb9fc1a2516f67](https://github.com/user-attachments/assets/abed8be6-b533-4ca7-9cd2-d03e89dca262)
 ![16b8eb3fa0d31c21c32835703d3de4da](https://github.com/user-attachments/assets/3ca2ac20-108a-4de2-80f0-d186245ee8b0)
 ![3d56014fcb476075d4bf6d24eb6bd685](https://github.com/user-attachments/assets/b591a1f6-09c7-44a1-a8f2-04c2503d4911)
